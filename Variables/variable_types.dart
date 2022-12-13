@@ -14,6 +14,9 @@ void main() {
   var f = 1;
   var g = 'Anmol';
 
+  // Constant Variable
+  const h = 1;
+
   print(a);
   print(b);
   print(c.runtimeType); // to show the type of variable
@@ -23,4 +26,5 @@ void main() {
   print(f);
   print(g);
   print("Name is $d"); // another way to print variables
+  print(h);
 }
