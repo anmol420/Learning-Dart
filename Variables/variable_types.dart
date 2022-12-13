@@ -22,4 +22,5 @@ void main() {
   print(e);
   print(f);
   print(g);
+  print("Name is $d"); // another way to print variables
 }
